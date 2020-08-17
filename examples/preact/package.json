@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "dog-names": "^1.0.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.20",
     "preact": "^7.2.0",
     "preact-compat": "^3.13.1",
     "prop-types": "^15.6.0",
