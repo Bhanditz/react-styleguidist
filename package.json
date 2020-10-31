@@ -36,7 +36,7 @@
     "classnames": "^2.2.5",
     "clean-webpack-plugin": "^0.1.17",
     "clipboard-copy": "^1.2.0",
-    "codemirror": "^5.32.0",
+    "codemirror": "^5.58.2",
     "common-dir": "^1.0.1",
     "copy-webpack-plugin": "^4.3.0",
     "css-loader": "^0.28.7",
